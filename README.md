@@ -17,7 +17,7 @@
 ["Russia", "Denmark", "Kazan"] -> []
 
 ### Блок схема:
-![Algorithm](C:\Users\артур\Desktop\FinalProject\algorithm.png)
+![Algorithm](algorithm.png)
 
 ### Описание решения:
 1. Создаем заполненный массив
